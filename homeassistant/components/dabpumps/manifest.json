@@ -1,0 +1,14 @@
+{
+  "domain": "dabpumps",
+  "name": "DAB Pumps",
+  "codeowners": ["@benjaminmurray"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/dabpumps",
+  "homekit": {},
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "requirements": ["dabpumps==0.1.0"],
+  "ssdp": [],
+  "zeroconf": []
+}
